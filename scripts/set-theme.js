@@ -42,4 +42,4 @@ document.addEventListener('DOMContentLoaded', () => {
       setDisabled(button.getAttribute('data-theme'));
     };
   });
-}); 
+});
